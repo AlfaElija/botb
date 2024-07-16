@@ -1,0 +1,19 @@
+{
+  "name": "bot_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^9.2.2",
+    "canvas": "^2.11.2",
+    "discord.js": "^14.14.1",
+    "node-gyp": "^10.0.1",
+    "quick.db": "^9.1.7"
+  }
+}
